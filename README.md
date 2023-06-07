@@ -1,1 +1,1 @@
-# omnitalk.webrtc.library
+# omnitalk.ios.webrtc.sdk
