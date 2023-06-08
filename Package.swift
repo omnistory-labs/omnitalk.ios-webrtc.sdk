@@ -4,13 +4,13 @@
 import PackageDescription
 
 let package = Package(
-    name: "omnitalk.ios.webrtc.sdk",
+    name: "omnitalk.ios-webrtc.sdk",
     platforms: [
         .iOS(.v13),
     ],
     products: [
         .library(
-            name: "omnitalk.ios.webrtc.sdk",
+            name: "omnitalk.ios-webrtc.sdk",
             targets: ["WebRTC"]),
     ],
     dependencies: [],
